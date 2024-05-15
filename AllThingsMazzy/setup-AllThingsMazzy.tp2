@@ -27,6 +27,7 @@ END
 
 LANGUAGE ~English~ ~english~ ~AllThingsMazzy/translations/english/setup-AllThingsMazzy.tra~ //List all available languages here. Each needs its own folder.
 LANGUAGE ~Russian~ ~russian~ ~AllThingsMazzy/translations/russian/setup-AllThingsMazzy.tra~
+LANGUAGE ~Simplified Chinese~ ~schinese~ ~AllThingsMazzy/translations/schinese/setup-AllThingsMazzy.tra~
  
 		 
 BEGIN @1 /*~All Things Mazzy~*/        //Any text written after Begin will appear as XXX in the Weidu install: Install XXX?
